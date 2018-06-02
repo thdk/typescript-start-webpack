@@ -6,7 +6,8 @@
   "scripts": {
     "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack && copy src\\html\\index.html dist\\index.html"
+    "build": "webpack && copy src\\html\\index.html dist\\index.html",
+    "watch": "webpack --watch"
   },
   "repository": {
     "type": "git",

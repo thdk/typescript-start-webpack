@@ -1,1 +1,3 @@
-console.log("test");
+import { config } from '../../config';
+
+alert("test 5");
