@@ -1,3 +1,2 @@
-import { config } from '../../config';
-
-alert("test 5");
+// TODO: create a config.ts based on config-sample.ts file in the project root
+import { config } from '../../config-sample'; // TODO: '../../config'
